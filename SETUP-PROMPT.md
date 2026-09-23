@@ -40,8 +40,9 @@ Verify the enclosed app with codesign --verify --deep --strict and spctl --asses
 assessment. Stop if a checksum, signature, or Gatekeeper check fails or required
 verification cannot be performed. Never strip quarantine, disable Gatekeeper,
 ad-hoc re-sign a downloaded release, or ask for credentials in chat to bypass it.
-As of 2026-09-04, this repository has no published release binary and its tap
-has no cask. Recheck rather than assuming that is still true. If neither exists,
+Drawstate 1.0.2 was published as a signed, notarized DMG on 2026-09-23. Recheck
+the current release and tap rather than assuming that version is still current.
+If neither a verified release asset nor cask is available,
 explain the source-build option and ask whether I want it before downloading large
 developer tools. If I agree, clone the official repository into a new local source
 directory, record its commit, and read AGENTS.md, Package.swift, and the packaging

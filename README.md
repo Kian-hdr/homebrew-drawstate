@@ -9,17 +9,18 @@ need editing. Use an agent with access to your Mac; it will check compatibility,
 download and verify the installer, preserve existing settings, and guide any
 permissions or configuration you need to complete yourself.
 
-**Binary availability checked 2026-09-04:** no release binary or Homebrew cask
-is published yet. The prompt rechecks availability and offers the documented
-source-build route with your agreement if a binary is still unavailable.
+**Published release:** Drawstate 1.0.2 is available as a signed and notarized
+[DMG](https://github.com/Kian-hdr/Drawstate/releases/tag/v1.0.2). The setup prompt
+checks the latest release and cask before installing.
 
-## Install when a binary is available
+## Install
 
-After the first Developer ID-signed and notarized release:
+The cask installs the versioned, notarized DMG from GitHub Releases:
 
 ```sh
 brew tap Kian-hdr/drawstate
 brew install --cask drawstate
 ```
 
-The cask is updated automatically by Drawstate's signed release workflow. No cask is published before a notarized binary exists.
+The tap is updated after each release artifact is verified. Homebrew does not update
+Drawstate automatically; run `brew upgrade --cask drawstate` when a new version is published.
