@@ -9,8 +9,8 @@ need editing. Use an agent with access to your Mac; it will check compatibility,
 download and verify the installer, preserve existing settings, and guide any
 permissions or configuration you need to complete yourself.
 
-**Published release:** Drawstate 1.0.2 is available as a signed and notarized
-[DMG](https://github.com/Kian-hdr/Drawstate/releases/tag/v1.0.2). The setup prompt
+**Published release:** Drawstate 1.0.5 is available as a signed and notarized
+[DMG](https://github.com/Kian-hdr/Drawstate/releases/tag/v1.0.5). The setup prompt
 checks the latest release and cask before installing.
 
 ## Install

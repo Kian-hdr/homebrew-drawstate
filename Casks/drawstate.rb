@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "drawstate" do
-  version "1.0.2"
-  sha256 "20d1d512a26b1acdb3e89e7390da8d3b7be955be6e27ef533e3bf9ba2c12890e"
+  version "1.0.5"
+  sha256 "dd3d6666b79bf22f8bc0aa38fbe2dc7bf618c76779af01e4a5380681c34217aa"
 
   url "https://github.com/Kian-hdr/Drawstate/releases/download/v#{version}/Drawstate-#{version}.dmg"
   name "Drawstate"
