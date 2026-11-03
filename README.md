@@ -2,6 +2,10 @@
 
 This is the official Homebrew tap for [Drawstate](https://github.com/Kian-hdr/Drawstate), a native macOS menu-bar utility for live power and battery telemetry.
 
+[![Download macOS DMG](https://img.shields.io/badge/Download%20macOS%20DMG-24292F?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Kian-hdr/Drawstate/releases/download/v1.0.5/Drawstate-1.0.5.dmg)
+
+[Download macOS DMG](https://github.com/Kian-hdr/Drawstate/releases/download/v1.0.5/Drawstate-1.0.5.dmg) · [Project README](https://github.com/Kian-hdr/Drawstate)
+
 ## Set up with your AI agent
 
 **[Copy the setup prompt into your agent's chat](SETUP-PROMPT.md).** No placeholders
