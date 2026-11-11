@@ -1,10 +1,8 @@
-# Homebrew Tap for Drawstate
+<p align="center"><strong>Homebrew Tap for Drawstate</strong></p>
 
 This is the official Homebrew tap for [Drawstate](https://github.com/Kian-hdr/Drawstate), a native macOS menu-bar utility for live power and battery telemetry.
 
-## Download
-
-<p>
+<p align="center">
 <a href="https://github.com/Kian-hdr/Drawstate/releases/download/v1.0.5/Drawstate-1.0.5.dmg"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for macOS"></a>
 </p>
 
